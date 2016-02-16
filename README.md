@@ -24,6 +24,6 @@ Otherwise kinect close after setted timeout.
 - Can it be re-used for local representation?
 
 # Useful Links
-[Kinect SDK for web applications](https://msdn.microsoft.com/en-us/library/dn435664.aspx)
-[Kinect Unity support, does not work on v2?](http://wiki.etc.cmu.edu/unity3d/index.php/Microsoft_Kinect_-_Microsoft_SDK)
-[Microsoft Kinect general tools and resources](https://dev.windows.com/en-us/kinect/tools)
+- [Kinect SDK for web applications](https://msdn.microsoft.com/en-us/library/dn435664.aspx)
+- [Kinect Unity support, does not work on v2?](http://wiki.etc.cmu.edu/unity3d/index.php/Microsoft_Kinect_-_Microsoft_SDK)
+- [Microsoft Kinect general tools and resources](https://dev.windows.com/en-us/kinect/tools)
